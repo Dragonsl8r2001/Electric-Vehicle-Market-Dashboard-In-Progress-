@@ -24,19 +24,19 @@ In March 2022, the Russo-Ukranian War drove crude oil to $130/Barrel.
 
 * Charts:
 
-Dual Axis Line Chart
+* Dual Axis Line Chart
 
 Left Axis- Annual Sales per Market Segment
 Right Axis- Oil Price USD/Barrel as a Seperate Line
 Vertical Market- March 2022, oil price peak at $130/barrel
 
-Grouped Bar Chart YoY Growth by Segment
+* Grouped Bar Chart YoY Growth by Segment
 
 X-Axis- Year
 Bars- One Bar per Segment, grouped
 Colour and Highlight the 2022 bars distinctly
 
-Elasiticy Bar Chart
+* Elasiticy Bar Chart
 
 X-Axis- Market Segment
 Y-Axis- Demand Elasticity coefficient (% sales change per % oil price change)
@@ -54,19 +54,19 @@ Rising Competitive Pressure
 
 * Charts:
 
-Dual Axis Line (Market Share + Rating)
+* Dual Axis Line (Market Share + Rating)
 
 Left axis: Tesla's % of total annual sales units
 Right axis: Tesla's average customer rating
 Both plotted 2020-2026
 
-Stacked Area chart (Market Share by Brand) 
+* Stacked Area chart (Market Share by Brand) 
 
 X axis: Year
 Y axis: % of total annual sales
 Each brand a different colour, stacked to 100%
 
-Radar / Spider Chart (Tesla vs BYD vs Hyundai vs BMW)
+* Radar / Spider Chart (Tesla vs BYD vs Hyundai vs BMW)
 
 Axes: Range, Charging Speed, Autopilot Level, Customer Rating, Value per Dollar, Safety Rating
 One polygon per brand
@@ -83,21 +83,21 @@ China’s Emerging EV Manufacturers and its Value Proposition
 
 * Charts:
 
-Bubble Chart (Value vs Quality vs Volume)
+* Bubble Chart (Value vs Quality vs Volume)
 
 X- axis: Range per dollar (value metric)
 Y axis: Average customer rating (quality metric)
 Bubble size: Total annual sales units (volume)
 
 
-Grouped bar chart (Value metrics by Country within Segments)
+* Grouped bar chart (Value metrics by Country within Segments)
 
 Filter: Mid-range segment only
 X axis: Country of origin
 Bars: Range per dollar, Power per dollar, Charging speed per dollar (three bars per country)
 
 
-Line chart (Chinese brand YoY Sales growth)
+* Line chart (Chinese brand YoY Sales growth)
 
 X axis: Year
 Y axis: YoY sales growth %
