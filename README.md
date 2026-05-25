@@ -22,7 +22,7 @@ In March 2022, the Russo-Ukranian War drove crude oil to $130/Barrel.
 * Do body types that are traditionally associated with high fuel consumption, such as Trucks, and SUVs see higher adoption rates in the 2022-2023 time periods?  Suggesting that people are replacing ICE rather than purchasing an additional vehicle, if so, is this trend consistent throughout periods not impacted by severe oil shocks? 
 * Can a measurable Demand Elasticity, in relation to how sensitive each segment's sales volume was to oil price movement between 2020-2026 be calculated?
 
-* Charts:
+Charts:
 
 * Dual Axis Line Chart
 
@@ -52,7 +52,7 @@ Rising Competitive Pressure
 - As Tesla has expanded their offerings to serve multiple segments, has its average customer ratings held, or has quality perception diluted as volume and variety scaled significantly over recent years?
 - Have competitors closed the gap on metrics that Tesla has previously led and built its global reputation on, such as range, charging speed, and autopilot ability.
 
-* Charts:
+Charts:
 
 * Dual Axis Line (Market Share + Rating)
 
@@ -81,7 +81,7 @@ China’s Emerging EV Manufacturers and its Value Proposition
 - Did Chinese brand sales trajectories measurably change post-2023 after their subsidy expiration, suggesting that Chinese EV market growth was policy-driven rather than demand-driven
 - On range/$, and Horsepower/$ metrics, do Chinese manufacturers offer superior, equivalent, or lower value compared to equivalent market segments provided by the the Western EV market
 
-* Charts:
+Charts:
 
 * Bubble Chart (Value vs Quality vs Volume)
 
