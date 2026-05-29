@@ -12,7 +12,38 @@ The most notable potential impact to the EV market was the 2022 oil shock caused
 
 Questions and Charts:
 
+
+
 Question 1
+
+Rising Competitive Pressure
+
+- Has Tesla's share of Total Annual Sales declined Year-over-Year since 2022, and at what rate
+- As Tesla has expanded their offerings to serve multiple segments, has its average customer ratings held, or has quality perception diluted as volume and variety scaled significantly over recent years?
+- Have competitors closed the gap on metrics that Tesla has previously led and built its global reputation on, such as range, charging speed, and autopilot ability.
+
+Charts:
+
+* Dual Axis Line (Market Share + Rating)
+
+Left axis: Tesla's % of total annual sales units
+Right axis: Tesla's average customer rating
+Both plotted 2020-2026
+
+* Stacked Area chart (Market Share by Brand) 
+
+X axis: Year
+Y axis: % of total annual sales
+Each brand a different colour, stacked to 100%
+
+* Radar / Spider Chart (Tesla vs BYD vs Hyundai vs BMW)
+
+Axes: Range, Charging Speed, Autopilot Level, Customer Rating, Value per Dollar, Safety Rating
+One polygon per brand
+
+============================================================================
+
+Question 2
 
 Oil shock Demand changes
 
@@ -44,34 +75,6 @@ Horizontal reference line at Zero
 
 ===============================================================================
 
-Question 2
-
-Rising Competitive Pressure
-
-- Has Tesla's share of Total Annual Sales declined Year-over-Year since 2022, and at what rate
-- As Tesla has expanded their offerings to serve multiple segments, has its average customer ratings held, or has quality perception diluted as volume and variety scaled significantly over recent years?
-- Have competitors closed the gap on metrics that Tesla has previously led and built its global reputation on, such as range, charging speed, and autopilot ability.
-
-Charts:
-
-* Dual Axis Line (Market Share + Rating)
-
-Left axis: Tesla's % of total annual sales units
-Right axis: Tesla's average customer rating
-Both plotted 2020-2026
-
-* Stacked Area chart (Market Share by Brand) 
-
-X axis: Year
-Y axis: % of total annual sales
-Each brand a different colour, stacked to 100%
-
-* Radar / Spider Chart (Tesla vs BYD vs Hyundai vs BMW)
-
-Axes: Range, Charging Speed, Autopilot Level, Customer Rating, Value per Dollar, Safety Rating
-One polygon per brand
-
-============================================================================
 
 Question 3:
 
