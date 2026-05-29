@@ -1,3 +1,23 @@
 Question 3:
 
 China’s Emerging EV Manufacturers and its Value Proposition
+
+# China's Value Proposition
+
+# BRAND LEVEL VALUE AND QUALIUTY SUMMARY
+
+bubble_data = (
+    df.groupby(['brand', 'country_of_origin'])
+        .agg(
+        Avg_Range_Per_Dollar = ('range_per_dollar', 'mean'),
+        Avg_Customer_Rating = ('customer_rating', 'mean'),
+        Total_Sales = ('annual_sales_units', 'sum'),
+        Avg_Price = ('price_usd', 'mean')
+).round(2)
+.reset_index()
+)
+
+print("Brand Value Summary")
+print(bubble_data.to_string())
+
+# Interestingly enough, BYD is one of the brands that have the best Average Range per dollar.  
