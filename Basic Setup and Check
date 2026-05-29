@@ -41,8 +41,5 @@ df['range_per_dollar'] = (df['range_miles'] / df['price_usd'] * 1000).round(2)
 df['power_per_dollar'] = (df['horsepower'] / df['price_usd'] * 1000).round(2)
 df['charge_per_dollar'] = (df['charging_speed_kw'] / df['price_usd'] * 1000).round(2)
 
-# Exclude Partial 2026 data
-
-df_ts = df[df['year'] <= 2025].copy
 
 #################################################################################################################
