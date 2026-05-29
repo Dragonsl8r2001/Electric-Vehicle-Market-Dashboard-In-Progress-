@@ -22,3 +22,27 @@ df.describe(include= 'all')
 
 df.head()
 
+####################################################################
+# plot params
+
+plt.rcParams['figure.figsize'] = (12, 6)
+plt.rcParams['axes.spines.top'] = False
+plt.rcParams['axes.spines.right'] = False
+plt.rcParams['font.family'] = 'sans-serif'
+
+# Oil Prices - SOURCED AND AVERAGED FROM EIA
+oil_prices = pd.DataFrame({
+    'year': [2020, 2021, 2022, 2023, 2024, 2025, 2026],
+'oil_price': [41.76, 70.67, 100.77, 82.46, 80.52, 69.10, 89.04]
+})
+
+# Per $ Metrics
+df['range_per_dollar'] = (df['range_miles'] / df['price_usd'] * 1000).round(2)
+df['power_per_dollar'] = (df['horsepower'] / df['price_usd'] * 1000).round(2)
+df['charge_per_dollar'] = (df['charging_speed_kw'] / df['price_usd'] * 1000).round(2)
+
+# Exclude Partial 2026 data
+
+df_ts = df[df['year'] <= 2025].copy
+
+#################################################################################################################
